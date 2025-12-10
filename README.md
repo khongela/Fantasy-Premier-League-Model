@@ -32,8 +32,3 @@ A high-performance predictive analytics engine for Fantasy Premier League. This 
 * **Transfers In (7.8%):** Sentiment analysis via manager transaction volume (Wisdom of the Crowd).
 * **Minutes (5.3%):** Security of starter status as the foundation for clean sheets and attacking returns.
 
----
-
-### **🚀 Roadmap**
-* **Linear Programming:** Automate squad selection using a constraint solver (`PuLP`).
-* **Fixture Analysis:** Add Fixture Difficulty Ratings (FDR) to improve opponent strength logic.
