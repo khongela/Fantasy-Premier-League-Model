@@ -2,6 +2,7 @@
 
 A high-performance predictive analytics engine for Fantasy Premier League. This system translates five years of historical match data into point projections using a gradient-boosted decision tree architecture, currently maintaining a verified **RMSE of 2.58**.
 
+ (credit to https://github.com/vaastav/Fantasy-Premier-League for the raw data)
 ---
 
 ### **💻 The Stack**
