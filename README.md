@@ -11,7 +11,6 @@ The model uses **XGBoost** to turn historical FPL data into player point project
 - **133k+** player-gameweek records
 - Historical data spanning multiple FPL seasons
 - **XGBoost** regression model
-- **RMSE of 2.58** on the current evaluation setup
 
 ## Features
 
@@ -48,10 +47,10 @@ Model development and evaluation are handled using **XGBoost** and **Scikit-lear
 
 Some of the strongest signals identified by the model include:
 
-- **Player value** — a proxy for expected performance
-- **Transfer activity** — a signal of FPL manager sentiment
-- **Minutes played** — an indicator of playing-time security
-- **Recent form** — capturing short-term performance trends
+- **Player value** a proxy for expected performance
+- **Transfer activity** a signal of FPL manager sentiment
+- **Minutes played** an indicator of playing-time security
+- **Recent form** capturing short-term performance trends
 
 ## Tech Stack
 
